@@ -3,7 +3,7 @@ import { BrandDiagonalBars } from "./components/brand-diagonal-bars";
 import { DottedCircle } from "./components/dotted-circle";
 import { HeatmapGrid } from "./components/heatmap-grid";
 import { ArrowRight } from "lucide-react";
-import logoImage from "figma:asset/359ed60898bc5915a5795dfba9ad8432baaf6cf7.png";
+import logoImage from "../assets/359ed60898bc5915a5795dfba9ad8432baaf6cf7.png";
 
 export default function App() {
   return (
